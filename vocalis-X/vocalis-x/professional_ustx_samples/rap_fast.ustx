@@ -1,0 +1,15 @@
+name: Professional Rap-Sing Pattern
+bpm: 150
+beat_per_bar: 4
+beat_unit: 4
+resolution: 480
+voice_parts:
+- notes:
+  # Rap-sing - rapid fire syllables
+  - {position: 0, duration: 180, tone: 67, lyric: "I"}
+  - {position: 180, duration: 180, tone: 67, lyric: "got"}
+  - {position: 360, duration: 180, tone: 69, lyric: "the"}
+  - {position: 540, duration: 300, tone: 70, lyric: "rhythm"}
+  - {position: 840, duration: 180, tone: 69, lyric: "in"}
+  - {position: 1020, duration: 180, tone: 67, lyric: "my"}
+  - {position: 1200, duration: 720, tone: 72, lyric: "soul"}

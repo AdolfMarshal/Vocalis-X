@@ -1,0 +1,18 @@
+name: Professional Pop Pattern
+bpm: 120
+beat_per_bar: 4
+beat_unit: 4
+resolution: 480
+voice_parts:
+- notes:
+  # Verse pattern - moderate tempo, conversational
+  - {position: 0, duration: 360, tone: 64, lyric: "I"}
+  - {position: 360, duration: 480, tone: 65, lyric: "can't"}
+  - {position: 840, duration: 600, tone: 67, lyric: "stop"}
+  - {position: 1440, duration: 480, tone: 65, lyric: "the"}
+  - {position: 1920, duration: 960, tone: 69, lyric: "feeling"}
+  # Short pause
+  - {position: 3120, duration: 320, tone: 64, lyric: "deep"}
+  - {position: 3440, duration: 360, tone: 65, lyric: "in"}
+  - {position: 3800, duration: 520, tone: 67, lyric: "my"}
+  - {position: 4320, duration: 1200, tone: 69, lyric: "soul"}

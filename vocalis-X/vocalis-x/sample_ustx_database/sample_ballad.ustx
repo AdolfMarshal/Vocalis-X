@@ -1,0 +1,25 @@
+name: Sample Ballad
+bpm: 75
+resolution: 480
+voice_parts:
+- notes:
+  - position: 0
+    duration: 600
+    tone: 62
+    lyric: When
+  - position: 600
+    duration: 480
+    tone: 64
+    lyric: I
+  - position: 1080
+    duration: 720
+    tone: 65
+    lyric: see
+  - position: 1800
+    duration: 960
+    tone: 67
+    lyric: you
+  - position: 2760
+    duration: 1440
+    tone: 69
+    lyric: smile

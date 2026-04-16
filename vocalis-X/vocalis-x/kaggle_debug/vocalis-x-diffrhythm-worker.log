@@ -1,0 +1,13 @@
+[{"stream_name":"stderr","time":1.452441399,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stderr","time":1.452533595,"data":"  File \"/kaggle/src/script.py\", line 14, in \u003cmodule\u003e\n"}
+,{"stream_name":"stderr","time":1.452540268,"data":"    ARTIFACTS.mkdir(parents=True, exist_ok=True)\n"}
+,{"stream_name":"stderr","time":1.452543575,"data":"  File \"/usr/lib/python3.12/pathlib.py\", line 1311, in mkdir\n"}
+,{"stream_name":"stderr","time":1.454274711,"data":"    os.mkdir(self, mode)\n"}
+,{"stream_name":"stderr","time":1.4542980110000001,"data":"OSError: [Errno 30] Read-only file system: '/kaggle/src/artifacts'\n"}
+,{"stream_name":"stderr","time":4.360716324,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":4.360757465,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":4.7710079279999995,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":4.771039905,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":6.5830906129999995,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":8.299985184,"data":"[NbConvertApp] Writing 301598 bytes to __results__.html\n"}
+]

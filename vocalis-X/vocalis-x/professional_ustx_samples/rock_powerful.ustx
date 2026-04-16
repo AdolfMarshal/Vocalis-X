@@ -1,0 +1,15 @@
+name: Professional Rock Pattern
+bpm: 140
+beat_per_bar: 4
+beat_unit: 4
+resolution: 480
+voice_parts:
+- notes:
+  # Rock - strong beats, emphatic
+  - {position: 0, duration: 480, tone: 67, lyric: "Break"}
+  - {position: 480, duration: 480, tone: 69, lyric: "through"}
+  - {position: 960, duration: 360, tone: 70, lyric: "the"}
+  - {position: 1320, duration: 840, tone: 72, lyric: "chains"}
+  - {position: 2400, duration: 480, tone: 70, lyric: "that"}
+  - {position: 2880, duration: 600, tone: 69, lyric: "hold"}
+  - {position: 3480, duration: 1200, tone: 67, lyric: "you"}

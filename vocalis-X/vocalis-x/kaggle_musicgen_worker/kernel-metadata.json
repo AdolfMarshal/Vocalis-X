@@ -1,0 +1,13 @@
+{
+  "id": "adolfmarshala/vocalis-x-musicgen-worker",
+  "title": "vocalis-x musicgen worker",
+  "code_file": "vocalisx_musicgen_kaggle_runner.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

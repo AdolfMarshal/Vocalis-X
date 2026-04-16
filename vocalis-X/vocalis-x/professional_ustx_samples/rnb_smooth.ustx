@@ -1,0 +1,17 @@
+name: Professional RnB Pattern
+bpm: 90
+beat_per_bar: 4
+beat_unit: 4
+resolution: 480
+voice_parts:
+- notes:
+  # R&B - melismatic runs, varied rhythm
+  - {position: 0, duration: 600, tone: 64, lyric: "You"}
+  - {position: 600, duration: 480, tone: 65, lyric: "make"}
+  - {position: 1080, duration: 360, tone: 67, lyric: "me"}
+  - {position: 1440, duration: 840, tone: 69, lyric: "feel"}
+  # Melismatic run on "so"
+  - {position: 2280, duration: 320, tone: 70, lyric: "so"}
+  - {position: 2600, duration: 280, tone: 72, lyric: "so"}
+  - {position: 2880, duration: 320, tone: 70, lyric: "so"}
+  - {position: 3200, duration: 1280, tone: 69, lyric: "good"}

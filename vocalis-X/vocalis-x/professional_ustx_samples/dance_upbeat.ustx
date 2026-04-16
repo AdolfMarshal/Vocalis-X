@@ -1,0 +1,16 @@
+name: Professional Dance Pattern
+bpm: 128
+beat_per_bar: 4
+beat_unit: 4
+resolution: 480
+voice_parts:
+- notes:
+  # Dance - quick syllables, rhythmic
+  - {position: 0, duration: 240, tone: 65, lyric: "Let's"}
+  - {position: 240, duration: 240, tone: 67, lyric: "dance"}
+  - {position: 480, duration: 240, tone: 69, lyric: "all"}
+  - {position: 720, duration: 720, tone: 70, lyric: "night"}
+  - {position: 1440, duration: 240, tone: 72, lyric: "till"}
+  - {position: 1680, duration: 240, tone: 70, lyric: "the"}
+  - {position: 1920, duration: 480, tone: 69, lyric: "morning"}
+  - {position: 2400, duration: 960, tone: 67, lyric: "light"}

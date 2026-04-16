@@ -1,0 +1,69 @@
+# =========================
+# 🔹 Python Backend
+# =========================
+venv/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# =========================
+# 🔹 AI / ML Models (VERY IMPORTANT)
+# =========================
+*.pt
+*.pth
+*.bin
+*.onnx
+*.ckpt
+
+# =========================
+# 🔹 Audio Files (Generated + Input)
+# =========================
+*.wav
+*.mp3
+*.flac
+
+# Output folders
+output/
+separated/
+cache/
+logs/
+
+# =========================
+# 🔹 Temp / Junk Files
+# =========================
+.tmp*
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# =========================
+# 🔹 Node / Frontend (Next.js)
+# =========================
+node_modules/
+.next/
+dist/
+build/
+
+# Environment
+.env.local
+.env.development
+.env.production
+
+# =========================
+# 🔹 IDE / Editor
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# 🔹 Misc
+# =========================
+coverage/
+*.sqlite3

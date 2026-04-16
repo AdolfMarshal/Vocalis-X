@@ -1,0 +1,25 @@
+name: Sample Pop Song
+bpm: 120
+resolution: 480
+voice_parts:
+- notes:
+  - position: 0
+    duration: 360
+    tone: 64
+    lyric: I
+  - position: 360
+    duration: 360
+    tone: 65
+    lyric: love
+  - position: 720
+    duration: 480
+    tone: 67
+    lyric: you
+  - position: 1200
+    duration: 720
+    tone: 69
+    lyric: so
+  - position: 1920
+    duration: 960
+    tone: 67
+    lyric: much

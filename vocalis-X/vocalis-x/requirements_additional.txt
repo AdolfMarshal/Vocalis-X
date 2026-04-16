@@ -1,0 +1,29 @@
+# Additional dependencies for improved Vocalis-X
+# Add these to your existing requirements.txt or install with:
+# pip install -r requirements_additional.txt
+
+# Configuration management
+pydantic-settings>=2.0.0
+
+# Structured logging
+structlog>=23.0.0
+
+# For production
+uvicorn[standard]>=0.23.0
+python-multipart>=0.0.6
+
+# Optional: For Redis-based session management (production)
+# redis>=5.0.0
+
+# Optional: For async task queue (production)
+# celery>=5.3.0
+
+# Optional: For monitoring
+# prometheus-client>=0.17.0
+
+# Optional: Vocals autotune (post-export, pre-mix)
+librosa>=0.10.0
+pyrubberband>=0.3.0
+
+# Optional: Kaggle cloud GPU bridge
+kaggle>=1.7.4

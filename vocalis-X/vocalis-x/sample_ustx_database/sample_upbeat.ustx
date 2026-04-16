@@ -1,0 +1,25 @@
+name: Sample Upbeat
+bpm: 140
+resolution: 480
+voice_parts:
+- notes:
+  - position: 0
+    duration: 240
+    tone: 65
+    lyric: Let's
+  - position: 240
+    duration: 240
+    tone: 67
+    lyric: go
+  - position: 480
+    duration: 480
+    tone: 69
+    lyric: dancing
+  - position: 960
+    duration: 240
+    tone: 70
+    lyric: all
+  - position: 1200
+    duration: 720
+    tone: 72
+    lyric: night

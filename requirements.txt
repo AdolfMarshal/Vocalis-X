@@ -1,0 +1,46 @@
+# =========================
+# Core Backend
+# =========================
+fastapi
+uvicorn
+pydantic
+
+# =========================
+# AI / ML
+# =========================
+torch
+torchaudio
+transformers
+accelerate
+
+# Meta AudioCraft (MusicGen)
+audiocraft
+
+# =========================
+# Audio Processing
+# =========================
+librosa
+soundfile
+numpy
+scipy
+
+# Source Separation (Demucs)
+demucs
+
+# =========================
+# Vocal Pipeline / Utils
+# =========================
+pyyaml
+tqdm
+
+# =========================
+# Automation (OpenUTAU)
+# =========================
+pywinauto
+pyautogui
+
+# =========================
+# Optional / Utility
+# =========================
+requests
+python-dotenv

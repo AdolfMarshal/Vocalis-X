@@ -1,0 +1,17 @@
+name: Professional Ballad Pattern
+bpm: 72
+beat_per_bar: 4
+beat_unit: 4
+resolution: 480
+voice_parts:
+- notes:
+  # Ballad - longer notes, emotional holds
+  - {position: 0, duration: 720, tone: 62, lyric: "When"}
+  - {position: 720, duration: 600, tone: 64, lyric: "I"}
+  - {position: 1320, duration: 840, tone: 65, lyric: "close"}
+  - {position: 2160, duration: 960, tone: 67, lyric: "my"}
+  - {position: 3120, duration: 1440, tone: 69, lyric: "eyes"}
+  # Breath pause
+  - {position: 4800, duration: 720, tone: 67, lyric: "I"}
+  - {position: 5520, duration: 960, tone: 69, lyric: "see"}
+  - {position: 6480, duration: 1920, tone: 71, lyric: "you"}
